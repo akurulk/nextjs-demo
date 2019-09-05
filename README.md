@@ -2,6 +2,8 @@
 
 This directory is a brief example of a [Next.js](https://nextjs.org) app that can be deployed to ZEIT Now with zero configuration.
 
+
+
 ## How we created this example
 
 To get started with Next.js on Now, you can use [npm create](https://www.npmjs.com/package/create-next-app) to initialize the project:
